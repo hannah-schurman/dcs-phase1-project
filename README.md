@@ -59,7 +59,7 @@ The genres with the highest grossing movies are Family, Action, and Mystery
 <img src="Images/movie_gross_by_genre_vis.png">
 
 
-R rated movies is the rating with the highest number of movies, as well as had the largest percentage of 'fresh' reviews by critic
+R rated movies are the most common movies, as well as had the largest percentage of 'fresh' reviews by critic
 <img src="Images/rt_fresh_by_ratings.png">
 
 
