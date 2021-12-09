@@ -56,10 +56,10 @@ The genres with the highest rated movies are Non-Fiction and Drama. Horror movie
 
 
 The genres with the highest grossing movies are Family, Action, and Mystery
-<img src="Images/movie_gross_genre_vis.png">
+<img src="Images/movie_gross_by_genre_vis.png">
 
 
-R rated movies is the rating with the highest number of movies, as well as had the largest percentage of 'fresh' reviews by critics
+R rated movies is the rating with the highest number of movies, as well as had the largest percentage of 'fresh' reviews by critic
 <img src="Images/rt_fresh_by_ratings.png">
 
 
@@ -84,7 +84,7 @@ Further Questions to Consider?
 
 # Further Questions
 
-See the full analysis in the [Jupyter Notebook]("student.ipynb") or review [this presentation]("DS_Project_Presentation.pdf")
+See the full analysis in the [Jupyter Notebook]("microsoft_movie_analysis.ipynb") or review [this presentation]("DS_Project_Presentation.pdf")
 
 For any additional questions, please contact Hannah Schurman at hannah.schurman1@gmail.com
 
@@ -93,7 +93,7 @@ For any additional questions, please contact Hannah Schurman at hannah.schurman1
 ├── Data
 ├── Images
 ├── README.md
-├── 
+├── microsoft_movie_analysis.ipynb
 └── 
 
 
