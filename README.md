@@ -1,20 +1,3 @@
-# dcs-phase1-project
-
-README.md
-A file called README.md at the root of the repository directory, written in Markdown; this is what is rendered when someone visits the link to your repository in the browser
-This file contains these sections:
-Overview
-Business Understanding
-Include stakeholder and key business questions
-Data Understanding and Analysis
-Source of data
-Description of data
-Three visualizations (the same visualizations presented in the slides and notebook)
-Conclusion
-Summary of conclusions including three relevant findings
-
-
-
 <img src="Images/logo.png">
 
 # <center>Microsoft Movie Studio</center>
@@ -22,8 +5,6 @@ Summary of conclusions including three relevant findings
 # Overview
 ***
 This project's goal is to explore movie analytics to provide actionable insights for Microsoft's new Movie Studio. My goal for this project was to help aid Microsoft in creating a baseline structure which will assist them in deciding what factors are important to take into consideration when producing films! 
-
-I carried out exploratory analyses on datasets containing information about movie titles, ratings, genres, gross income, and directors to create a selection of business models for Microsoft's consideration.
 
 My analyses show that movies under the genres Action, Family, and Mystery, on average, have a higher gross box-office income. But, as far as movie ratings go, Drama and Non-Fiction movies tend to, on average, get higher ratings. This tells us that while Action/Family/Mystery movies generally make more money in the box-office, they are not perceived as well by critics.
 
@@ -54,14 +35,29 @@ The data used in this project was gathered from IMDB, Rotten Tomatoes, and Box O
 
 * ```rt_reviews```: Rotten Tomato data consisting of ID (many reviews per movie ID), rating, fresh/rotten, and other data not used for the purpose of this project
 
-* ```bom.movie_gross```: BOM data consisting of movie title, studio, domestic gross, foreign gross, year
+* ```bom.movie_gross```: Box Office Mojo data consisting of movie title, studio, domestic gross, foreign gross, year
 
 ***
 
+# Methods
+---
+This project uses exploratory analysis to find trends in Movie Data so to provide actionable insights to Microsoft for their new movie studio. 
 
-<img src="Images/movie_ratings_by_genre.png">
-<img src="Images/movie_gross_by_genre.png">
-<img src="Images/freshness_by_movie_rating.png">
+I began my importing, merging, and cleaning the data that was gathered from IMDB, Rotten Tomatoes, and Box Office Mojo. I then carried out data analyses to generate visualizations and create concrete business recommendations for Microsoft in their endeavor to create a successful Movie Studio!
+
+
+# Data
+---
+The genres with the highest rated movies are Non-Fiction and Drama. Horror movies has a very wide range of movie ratings
+<img src="Images/mov_rating_genre_vis.png">
+
+
+The genres with the highest grossing movies are Family, Action, and Mystery
+<img src="Images/movie_gross_genre_vis.png">
+
+
+R rated movies is the rating with the highest number of movies, as well as had the largest percentage of 'fresh' reviews by critics
+<img src="Images/rt_fresh_by_ratings.png">
 
 
 # Conclusion
@@ -83,5 +79,21 @@ Further Questions to Consider?
 * Who are some up of the top up and coming actors? People who have had a recent increase in roles and are expected to continue to thrive
 
 * How have the popularities of genres changed over time? Number of movies for each genre over time? Ratings of each genre over time?
+
+
+# Further Questions
+***
+See the full analysis in the [Jupyter Notebook] (student.ipynb) or review [this presentation] (DS_Project_Presentation.pdf)
+
+For any additional questions, please contact Hannah Schurman at hannah.schurman1@gmail.com
+
+
+# Repository Structure
+***
+├── Data
+├── Images
+├── README.md
+├── 
+└── 
 
 
