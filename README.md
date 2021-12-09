@@ -2,8 +2,9 @@
 
 # <center>Microsoft Movie Studio</center>
 
+
 # Overview
-***
+
 This project's goal is to explore movie analytics to provide actionable insights for Microsoft's new Movie Studio. My goal for this project was to help aid Microsoft in creating a baseline structure which will assist them in deciding what factors are important to take into consideration when producing films! 
 
 My analyses show that movies under the genres Action, Family, and Mystery, on average, have a higher gross box-office income. But, as far as movie ratings go, Drama and Non-Fiction movies tend to, on average, get higher ratings. This tells us that while Action/Family/Mystery movies generally make more money in the box-office, they are not perceived as well by critics.
@@ -12,8 +13,9 @@ My analyses also explores movie ratings (G, PG, PG-13, R, NR) and the distributi
 
 As a bonus, I have explored the Top 10 Movie Directors by the number of films they have directed and analyzed their average movie rating. This has shown that Stephen Spielberg has both made the highest number of movies, as well as has the highest average ratings. This tells us that he would be a excellent director to partner with.
 
+
 # Business Problem
-***
+
 Questions I will be Analyzing:
 * What is the distribution of movie ratings and number of movies produced based on genres?
 * What movie genre, on average, makes the most amount of money in the box office?
@@ -24,8 +26,9 @@ Questions I will be Analyzing:
 
 The answers to these questions will allow Microsoft to decide what genres they should focus on as far as how well its perceived by critics and how much money it makes in the box office. It would also provide insight into what movie ratings would follow how the movie industry is trending.
 
+
 # Data Understanding
----
+
 The data used in this project was gathered from IMDB, Rotten Tomatoes, and Box Office Mojo
 
 * ```imdb_title_basics```: IMDB data consisting of title ID, primary title name, original title name (if fireign or known by something else), start year, runtime minutes, and a string of genres separated by a comma
@@ -40,14 +43,14 @@ The data used in this project was gathered from IMDB, Rotten Tomatoes, and Box O
 ***
 
 # Methods
----
+
 This project uses exploratory analysis to find trends in Movie Data so to provide actionable insights to Microsoft for their new movie studio. 
 
 I began my importing, merging, and cleaning the data that was gathered from IMDB, Rotten Tomatoes, and Box Office Mojo. I then carried out data analyses to generate visualizations and create concrete business recommendations for Microsoft in their endeavor to create a successful Movie Studio!
 
 
 # Data
----
+
 The genres with the highest rated movies are Non-Fiction and Drama. Horror movies has a very wide range of movie ratings
 <img src="Images/mov_rating_genre_vis.png">
 
@@ -61,7 +64,6 @@ R rated movies is the rating with the highest number of movies, as well as had t
 
 
 # Conclusion
-***
 
 This analysis leads to three recommendations for movie productions:
 1. Action or Family based on gross box-office income
@@ -72,7 +74,6 @@ This analysis leads to three recommendations for movie productions:
 
 
 # Next Steps
-***
 
 Further Questions to Consider?
 
@@ -82,14 +83,13 @@ Further Questions to Consider?
 
 
 # Further Questions
-***
-See the full analysis in the [Jupyter Notebook] (student.ipynb) or review [this presentation] (DS_Project_Presentation.pdf)
+
+See the full analysis in the [Jupyter Notebook] ("student.ipynb") or review [this presentation] ("DS_Project_Presentation.pdf")
 
 For any additional questions, please contact Hannah Schurman at hannah.schurman1@gmail.com
 
 
 # Repository Structure
-***
 ├── Data
 ├── Images
 ├── README.md
