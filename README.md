@@ -84,7 +84,7 @@ Further Questions to Consider?
 
 # Further Questions
 
-See the full analysis in the [Jupyter Notebook]("microsoft_movie_analysis.ipynb") or review [this presentation]("Microsoft_Movie_Studio_Presentation.pdf")
+See the full analysis in the [Jupyter Notebook]("https://github.com/hannah-schurman/dsc-phase1-project/blob/main/%22microsoft_movie_analysis.ipynb%22") or review [this presentation]("https://github.com/hannah-schurman/dsc-phase1-project/blob/main/%22Microsoft_Movie_Studio_Presentation.pdf%22")
 
 For any additional questions, please contact Hannah Schurman at hannah.schurman1@gmail.com
 
