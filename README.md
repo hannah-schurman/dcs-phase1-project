@@ -16,7 +16,7 @@ As a bonus, I have explored the Top 10 Movie Directors by the number of films th
 
 # Business Problem
 
-Questions I will be Analyzing:
+**Questions I will be Analyzing:**
 * What is the distribution of movie ratings and number of movies produced based on genres?
 * What movie genre, on average, makes the most amount of money in the box office?
 * What is the distribution for number of movies made by movie rating (G, PG, PG-13, R, or NR), and what percent of them get good ratings? 
@@ -65,7 +65,7 @@ R rated movies are the most common movies, as well as had the largest percentage
 
 # Conclusion
 
-This analysis leads to three recommendations for movie productions:
+This analysis leads to **three recommendations** for movie productions:
 1. Action or Family based on gross box-office income
 2. Documentary or Biography based on viewer/critic ratings
 3. R rated movie based on overall critic response
@@ -75,7 +75,7 @@ This analysis leads to three recommendations for movie productions:
 
 # Next Steps
 
-Further Questions to Consider?
+**Further Questions to Consider?**
 
 * Who are some up of the top up and coming actors? People who have had a recent increase in roles and are expected to continue to thrive
 
