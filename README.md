@@ -84,7 +84,7 @@ Further Questions to Consider?
 
 # Further Questions
 
-See the full analysis in the [Jupyter Notebook] ("student.ipynb") or review [this presentation] ("DS_Project_Presentation.pdf")
+See the full analysis in the [Jupyter Notebook]("student.ipynb") or review [this presentation]("DS_Project_Presentation.pdf")
 
 For any additional questions, please contact Hannah Schurman at hannah.schurman1@gmail.com
 
