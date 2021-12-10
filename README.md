@@ -5,7 +5,7 @@
 
 # Overview
 
-This project's goal is to explore movie analytics to provide actionable insights for Microsoft's new Movie Studio. My goal for this project was to help aid Microsoft in creating a baseline structure which will assist them in deciding what factors are important to take into consideration when producing films! 
+This project's goal is to explore movie analytics to provide actionable insights for Microsoft's new Movie Studio. I aim to help aid Microsoft create a baseline structure which will assist them in deciding what factors are important to take into consideration when producing films!  
 
 My analyses show that movies under the genres Action, Family, and Mystery, on average, have a higher gross box-office income. But, as far as movie ratings go, Drama and Non-Fiction movies tend to, on average, get higher ratings. This tells us that while Action/Family/Mystery movies generally make more money in the box-office, they are not perceived as well by critics.
 
